@@ -105,7 +105,7 @@ main(){
         "update")
             if is_dns_updated
             then
-                log "Domain already updated."
+				# log "Domain already updated."
                 return
             fi
             ;;
